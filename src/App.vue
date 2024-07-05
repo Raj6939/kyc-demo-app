@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="./assets/Fyre_Gold_Black.png" height="70px">
+    <HelloWorld msg="Welcome to Hypersign KYC Demo"/>
   </div>
 </template>
 
